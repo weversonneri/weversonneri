@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">
 
 <!--
 **weversonneri/weversonneri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
